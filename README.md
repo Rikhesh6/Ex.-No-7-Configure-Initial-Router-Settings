@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24-11-2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,7 +16,7 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/499f8fdc-8177-476d-b0fb-0d3de5ba7328" />
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +80,18 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/811de1ea-b8d9-4d3a-9d8a-a3fc48eb1ede" />
 •	Running configuration before and after<br>
+<img width="1918" height="1195" alt="image" src="https://github.com/user-attachments/assets/14fccc4b-2fbe-45cb-b576-43b96c8cf3ec" />
 •	MOTD banner display<br>
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5baece4c-1315-4d8a-b89a-8ba15a5bf34b" />
 •	Password prompts<br>
+<img width="1918" height="1197" alt="image" src="https://github.com/user-attachments/assets/a0816cf7-1aaa-4dbd-8ba0-60fde9311d49" />
 •	Saved configuration in NVRAM and flash<br>
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/0af85410-fabe-4ae5-b1a5-82d120f12a3d" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/e1d0ca20-b146-430d-b816-4f1d3dca12dd" />
+
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
